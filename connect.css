@@ -1,0 +1,105 @@
+body{
+   
+    font-family: 'Rubik' !important;
+    color: black;
+}
+h1{
+    font-family: "Yeseva One" !important;
+    font-size: 3rem !important;
+}
+.connect{
+    width: 1519px;
+    height: 440px;
+}
+.names{
+    padding: 60px;
+    font-weight: bolder !important;
+    font-size : 60px !important;
+    color: black;
+}
+.img2{
+   
+    width: 320px;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+
+.icon{
+    margin-left: 305px;
+    font-size: 25px;
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.fa{
+    color: black;
+    text-align: center;
+}
+.row{
+    display: flex;
+    margin-bottom: 100px
+}
+.card{
+    border-width: 5px;
+}
+.cards{
+    text-align: center !important;
+     ;
+   
+}
+.imgs{
+    width: 200px;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.help1{
+    height : 330px;
+    background-color: #ff5454 !important;
+    color: #ffffff;
+    width: 70% ;
+    margin-left: 210px;
+    border-radius: 40px!important;
+ font-size: 25px;
+    font-weight: bold;
+    align-self: center;
+}
+
+.help2{
+    height : 330px;
+    background-color: #57ff72 !important;
+    color: #ffffff;
+    width: 70% ;
+    margin-left: 30px;
+    border-radius: 40px !important;
+    
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.click{
+    margin-top: 40px;
+    background-color: white  ;
+    border-radius: 27px ;
+    width: 200px ;
+    align-self: center;
+    
+}
+.btn{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    text-align: center;
+    padding: 13px !important;
+}
+
+
+
+
+
+
+
+

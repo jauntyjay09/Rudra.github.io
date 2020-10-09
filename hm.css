@@ -1,0 +1,158 @@
+
+.tp{
+  height: 20rem;
+  padding: 0;
+ 
+
+}
+.top{
+    width: 94.8em;
+    height: 28em;
+    margin: 0;
+}
+.p{
+  height: 20em;
+  width: 80em;
+  display: flex;
+}
+.a{
+  width: 40em;
+  height: 20em;
+
+  padding: 5em 10em 5em 10em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b{
+  width: 40em;
+  height: 20em;
+  padding: 2em 8em 2em 8em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.mp{
+ margin-left: 20em;
+  display: flex;
+}
+.fc{
+
+  transform: translate(-50%,-50%);
+  height: 300px;
+  width: 400px;
+  margin-left: 2em;
+  background-color:#000;
+  box-shadow:  0 25px 30px rgba(0, 0, 0, .5) ;
+  
+}
+
+
+.conta{
+  width: calc(50% - 50px);
+  height: 100%;
+  color: white;
+  background-color: black;
+  box-sizing: border-box;
+  border-bottom:100px solid rgba(0, 0, 0, 1) ;
+  border-right:400px solid transparent;
+  background: url(assests/home/Component\ 4\(a\).JPG);
+  background-repeat: no-repeat;
+  background-size: 400px 500px;
+  background-position:0px -100px;
+}
+.contb{
+  width: calc(50% - 50px);
+  height: 100%;
+  color: white;
+  background-color: black;
+  box-sizing: border-box;
+  border-bottom:100px solid rgba(0, 0, 0, 1) ;
+  border-right:400px solid transparent;
+  background: url(assests/home/Component\ 4\(b\).JPG);
+  background-repeat: no-repeat;
+  background-size: 400px 500px;
+  background-position:0px -140px;
+}
+.contc{
+  width: calc(50% - 50px);
+  height: 100%;
+  color: white;
+  background-color: black;
+  box-sizing: border-box;
+  border-bottom:100px solid rgba(0, 0, 0, 1) ;
+  border-right:400px solid transparent;
+  background: url(assests/home/Component\ 4\ \(c\).jpg);
+  background-repeat: no-repeat;
+  background-size: 400px 500px;
+  background-position:1px -70px;
+}
+.im{
+  width:400px;
+  height: 30%;
+  background-color: rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+  color:whitesmoke ;
+  padding-left: 15%;
+  padding-top: 8%;
+ 
+ 
+
+}
+.upe{
+ margin-left: 10rem;
+ margin-bottom: 3em;
+ margin-top: 6em;
+  color: blue;
+  font-size: 3em;
+}
+.datae{
+  width:80em ;
+  height:32em;
+  margin-top: 2rem;
+  margin-bottom: 10em;
+  display: flex;
+}
+.ev1{
+  margin-left: 10rem;
+  background-color:  	#00FF7F; 
+  
+}
+.ev2{
+  margin-left: 10rem;
+  background-color:  	#00FF7F; 
+  
+}
+.ma{
+  background-color:  	#00FF7F; 
+}
+
+table{
+
+  background-color: chartreuse;
+  width: 35em;
+  height: 25em;
+  margin-left: 3rem;
+  margin-top: 4rem;
+  background: url(assests/home/com11.jpg);
+  background-repeat: no-repeat;
+  background-size: 600px 500px;
+  background-position:0px -70px;
+ 
+  border-radius: 2em;
+  
+
+}
+td{
+  padding-left: 2.5em;
+  font-size: 1.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  
+  background: rgba(10, 10, 10, 0.6)
+  
+ 
+
+}
+.ta{
+  margin-right: 2em;
+  border-color: purple;
+}
+

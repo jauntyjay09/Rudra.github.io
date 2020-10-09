@@ -1,0 +1,95 @@
+.top{
+    width: 94.8em;
+    height: 20rem;
+    margin: 0;
+}
+.tp{
+    height: 20rem;
+    padding: 0;
+   
+
+}
+.penl{
+    background-color:  	#00FF7F; 
+}
+.card-title{
+    background-color:  	#00FF7F; 
+    padding: 0.4rem ;
+    border-radius: 0.8rem;
+    text-align: center;
+
+}
+.card-text{
+    text-align: justify;
+}
+.v1{
+    background: url(assests/ctc/v1.jpg);
+    background-repeat: no-repeat;
+    background-size:50rem 20rem;
+    background-position:0px 0px;
+  
+    
+    
+}
+.v2{
+    background: url(assests/ctc/v2.jpg);
+    background-repeat: no-repeat;
+    background-size:50rem 20rem;
+    background-position:0px 0px;
+    
+    
+    
+}
+.v3{
+    background: url(assests/ctc/v3.jpg);
+    background-repeat: no-repeat;
+    background-size:50rem 20rem;
+    background-position:0px 0px;
+    
+    
+}
+.cc1{
+    color: black;
+}
+
+
+.abe{
+    width: auto;
+    height:20rem;
+}
+.mpq{
+    width: 30rem;
+    height:40rem;
+
+}
+.pp{
+    width: 30rem;
+    height:40rem;
+}
+blockquote {
+    border:none;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    margin-bottom:-30px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote h3 {
+font-size:21px;
+color: white;
+
+background: rgba(10, 10, 10, 0.2)
+}
+
+blockquote h3:before { 
+content: open-quote;
+font-weight: bold;
+font-size:100px;
+color:#889c0b;
+} 
+blockquote h3:after { 
+content: close-quote;
+font-weight: bold;
+font-size:100px;
+color:#889c0b;
+  
+}
