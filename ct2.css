@@ -1,0 +1,53 @@
+html,body{
+    width: 100%;
+    height: 100%;
+  
+  }
+  .carousel-inner img{
+    width: 100%;
+    height: auto;
+  }
+  .carousel-caption {
+    position: absolute;
+    top:50%;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transform: translateY(-50%);
+    
+  }
+ .ccp{
+    background-color: rgba(255, 255, 255, 0.5);
+ }
+.card-title{
+    background-color:  	#00FF7F; 
+    padding: 0.4rem ;
+    border-radius: 0.8rem;
+    text-align: center;
+
+}
+.card-text{
+    text-align: justify;
+}
+
+blockquote {
+    border:none;
+    font-family:'Times New Roman', Times, serif;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote h3 {
+
+color:black;
+}
+
+blockquote h3:before { 
+content: open-quote;
+font-size:2em;
+color:chartreuse;
+} 
+blockquote h3:after { 
+content: close-quote;
+font-size:2em;
+color:chartreuse;
+  
+}
