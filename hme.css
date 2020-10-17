@@ -10,15 +10,32 @@ html,body{
 .carousel-caption {
   position: absolute;
   top:50%;
+  width: auto;
+  height: auto;
   color:white;
+  background-color: rgba(0,0,0, 0.3);
+  text-align: center;
+  
   font-family: Georgia, 'Times New Roman', Times, serif;
   transform: translateY(-50%);
+}
+
+.ctb{
+  margin-top: 20em;
 }
 .jjq{
   padding: 2em;
  
 }
+.ggh{
+  padding: 2em;
+}
+.card-text{
+  text-align: justify;
+}
+
 .kkl{
+  text-align: justify;
   padding: 2em;
 }
 .kk{
@@ -34,28 +51,6 @@ html,body{
  .jjq img{
   opacity: 0.8;
  }
-.capa{
-  position: absolute;
-  top:20%;
-  padding: 2em;
-}
-.capb{
-  position: absolute;
-  top:40%;
-  padding: 2em;
-}
-.capc{
-  position: absolute;
-  top:20%;
-  left: 50%;
-  padding: 2em;
-}
-.capd{
-  position: absolute;
-  top:40%;
-  left: 50%;
-  padding: 2em;
-}
 
 .sdf{
   max-width: 20em;
