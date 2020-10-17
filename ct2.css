@@ -25,6 +25,13 @@ html,body{
     text-align: center;
 
 }
+
+ .card .abe{
+   padding: 2em;
+ }
+ .ggh {
+   padding: 2em;
+ }
 .card-text{
     text-align: justify;
 }
