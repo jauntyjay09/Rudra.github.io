@@ -14,10 +14,34 @@ html,body{
   height: auto;
   color:white;
   background-color: rgba(0,0,0, 0.3);
-  text-align: center;
   
+ 
   font-family: Georgia, 'Times New Roman', Times, serif;
   transform: translateY(-50%);
+}
+th,td{
+  padding: 0.8em;
+  color: white;
+}
+.a{
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-color: white;
+}
+.b{
+  border-top-style: solid;
+  border-left-style: solid;
+  border-color: white;
+}
+.c{
+  border-left-style: solid;
+  border-color: white;
+}
+.carousel-caption .txt{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
 }
 
 .ctb{
@@ -75,4 +99,51 @@ html,body{
   height: auto;
  background-color:	#00FF7F
 
+}
+
+.post{
+  box-shadow: 5px 5px #888,
+  -5px -5px 5px #efefef;
+  transform: scale(0.95);
+  transition:  all 0.4s ease-in-out;
+}
+.post:hover{
+  transform: translate(-5px, -5px);
+  box-shadow: 15px  15px 15px #888,
+  -15px -15px 15px #efefef;
+}
+.bx{
+  box-shadow: 15px  15px 55px #888;
+  
+}
+.txte{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+       
+.content{
+  position: relative;
+  padding: 0 20px 20px;
+  z-index: 0;
+  background-color: #fff;
+}
+.content::after{
+  position: absolute;
+  content: "";
+  background-color: #fff;
+  width: 100%;
+  height: 95px;
+  right: 0;
+  left: 0;
+  top: -55px;
+  transform: skewY(14deg);
+  z-index: -1;
+}
+#travel{
+  margin-top: 200px;
+}
+img{
+  max-width: 100%;
 }
